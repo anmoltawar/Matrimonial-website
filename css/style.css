@@ -1,0 +1,77 @@
+.inline{
+    list-style: none;
+    display: inline-flex;
+}
+.bkg-img{
+    background-image: url('../shadi-img/wed-1.1.jpg');
+    display:flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+    height:100vh ;
+    width: auto;
+}
+.bkg-clr{
+  background-color: rgb(121, 137, 81);
+}
+.bkg-red{
+  background-color: red;
+}
+.bkg-cyan{
+  background-color:whitesmoke;
+}
+li.dropdown {
+    padding: 7px;
+}
+.card-img-top{
+    height: 250px;
+    width: auto;
+    border-radius: 20px;
+}
+.wed-img{
+    
+    height: 100%;
+    width: auto;
+    border-radius: 30px;
+}
+.wed-img-glry{
+    
+    height: 200px;
+    width: auto;
+    border-radius: 30px;
+}
+.wed-video{
+    height: 50vh;
+    width: 600px;
+    border-radius: 30px;
+}
+#grad {
+    background-image: linear-gradient(to right, #FCFFFE,#DFE7E0,#F6F9F8);
+  }
+
+  .form{
+    width: 40vw;
+    height: 7vh;
+    border-radius: 10px;
+    
+  }
+  .map-img{
+    height: 88vh;
+    width: auto;
+    size: cover;
+    display: flex;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    
+  }
+  .nav-item a{
+    color:white;
+  }
+  li a{
+    color: black;
+    text-decoration: none;
+  }
+  
+  .section10 .nav-item a{
+    color: black;
+  }
